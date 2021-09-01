@@ -79,6 +79,7 @@ h1{
   grid-gap: 4rem;
   justify-content: center;
   width: 100%;
+  height: 100%;
   max-width: 1280px;
   margin: 0 auto;
   margin-bottom: 6rem;
@@ -281,11 +282,11 @@ h3{
 
 @media(min-width: 1400px){
   h1{
-    font-size: 48px;
+    font-size: 54px;
    }
 
    .welcome-section p{
-     font-size: 48px;
+     font-size: 54px;
    }
   
   .projects-section-header{
