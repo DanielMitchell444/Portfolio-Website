@@ -290,7 +290,11 @@ h3{
    }
   
   .projects-section-header{
-    font-size: 48px;
+    font-size: 54px;
+   }
+
+   h2{
+     font-size: 54px;
    }
 
    .projects-section{
@@ -311,6 +315,17 @@ h3{
     padding: 6rem 0.2rem;
   }
 
+}
+
+
+@-moz-document url-prefix() {
+  h1{
+  font-size: 54px;
+  }
+
+  h3{
+   font-size: 54px;
+  }
 }
 
 
